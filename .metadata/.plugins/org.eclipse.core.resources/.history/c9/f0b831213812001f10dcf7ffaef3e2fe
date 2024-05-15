@@ -1,0 +1,5 @@
+package com.sjprogramming.restapi.repository;
+
+public interface StudentRepository {
+
+}
